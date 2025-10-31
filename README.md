@@ -67,11 +67,11 @@ Enter a username to join the chat.
 Start sending messages to other users.
 
 📸 Screenshots
-screenshots/image1.png
-screenshots/image2.png
-screenshots/image3.png
-screenshots/image4.png
-screenshots/image5.png
+![Alt Text](screenshots/image1.png)
+![Alt Text](screenshots/image2.png)
+![Alt Text](screenshots/image3.png)
+![Alt Text](screenshots/image4.png)
+![Alt Text](screenshots/image5.png)
 
 
 📁 Project Structure
